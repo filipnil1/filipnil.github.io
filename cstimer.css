@@ -5,7 +5,6 @@ margin: 0;
 body{
     background-image: url("cstimer.png");
     background-repeat: no-repeat;
-    background-position: center center;
     background-attachment: fixed;
     background-size: cover;
 }
